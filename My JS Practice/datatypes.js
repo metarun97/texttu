@@ -56,5 +56,12 @@ console.log("hello " + name)  // hello Johns
 console.log(`hello  ${name}`) // hello John
 
 
+                      /*Boolean */
+
+let isAdmin = true
+console.log(isAdmin) // true
+console.log(2<3) // true
+// It is a boolean
+
 
 
